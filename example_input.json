@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-01",
+  "funnel": {
+    "new_leads": 14,
+    "contacted": 11,
+    "trial_scheduled": 8,
+    "trial_done": 7,
+    "paid": 3
+  },
+  "managers": {
+    "Мария": 2,
+    "Алина": 1,
+    "Света": 0
+  }
+}
